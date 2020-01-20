@@ -90,10 +90,10 @@ brew "zsh"
 # Desktop apps to install via Cask
 # cask "ableton-live-standard9"
 cask "adobe-creative-cloud"
-cask "bettertouchtool"
+# cask "bettertouchtool"
 cask "betterzip"
 cask "brave-browser"
-cask "caffeine"
+# cask "caffeine"
 cask "camunda-modeler"
 cask "charles"
 cask "dash"
@@ -113,7 +113,7 @@ cask "grammarly"
 cask "handbrake"
 cask "insomnia"
 cask "intellij-idea"
-cask "istat-menus"
+# cask "istat-menus"
 cask "iterm2"
 cask "keybase"
 cask "kindle"
@@ -123,10 +123,10 @@ cask "microsoft-teams"
 cask "notion"
 cask "phantomjs"
 cask "pycharm"
-cask "quickbooks-online"
+# cask "quickbooks-online"
 cask "quik"
 cask "sketch"
-cask "skype"
+# cask "skype"
 cask "slack"
 cask "sourcetree"
 cask "spectacle"
@@ -155,8 +155,8 @@ mas "Skitch", id: 425955336
 mas "Smart JSON Editor", id: 1268962404
 mas "Spark", id: 1176895641
 mas "Textual 7", id: 1262957439
-mas "TickTick", id: 966085870
-mas "Tweetbot", id: 1384080005
-mas "Vimeo", id: 1356686763
+# mas "TickTick", id: 966085870
+# mas "Tweetbot", id: 1384080005
+# mas "Vimeo", id: 1356686763
 # mas "WhatsApp Desktop", id: 1147396723
 mas "Xcode", id: 497799835
